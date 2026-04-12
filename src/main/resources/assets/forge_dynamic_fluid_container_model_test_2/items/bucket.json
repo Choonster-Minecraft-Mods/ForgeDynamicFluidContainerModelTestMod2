@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "forge_dynamic_fluid_container_model_test_2:item/bucket"
+  }
+}
