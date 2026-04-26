@@ -1,0 +1,6 @@
+{
+  "parent": "forge:item/bucket",
+  "flip_gas": true,
+  "fluid": "forge_dynamic_fluid_container_model_test_2:gas",
+  "loader": "forge:fluid_container"
+}

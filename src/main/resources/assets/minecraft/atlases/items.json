@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:single",
+      "resource": "forge_dynamic_fluid_container_model_test_2:block/fluid_gas_still",
+      "sprite": "forge_dynamic_fluid_container_model_test_2:item/fluid_gas_still"
+    }
+  ]
+}
